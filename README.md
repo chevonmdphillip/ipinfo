@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IP Address Information Tool
 
 This tool takes in a single ip address and returns useful information on that address.
@@ -26,3 +27,6 @@ ipinfo -ip 8.8.8.8
 ``
 &{{8.8.8.8 Mountain View California US 37.3860,-122.0838  94035} dns.google AS15169 Google LLC}
 ``
+=======
+# ipinfo
+>>>>>>> 094f182c33b15a846842457b80c513ac0bbbeaa7
